@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PR7</string>
+    <string name="title_home">Вкладка1</string>
+    <string name="title_dashboard">Вкладка2</string>
+    <string name="title_notifications">Вкладка3</string>
+</resources>
